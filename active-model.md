@@ -67,7 +67,7 @@ validates_presence_of :name
 
 ###### 2.2. validates :<attribute>, <option>:<value>[, <option>:<value>]
 
-- Available from `rails 3.0`
+Available from `rails 3.0`
 
 ```
 validates :name, presense: true, length: { minimum: 10 }
