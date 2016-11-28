@@ -4,7 +4,9 @@
 
 1.1. validates_presence_of
 
-e.g. validates_presence_of :name 
+``` rails
+    validates_presence_of :name 
+```
 
 1.2. validates_numbericality_of
 
